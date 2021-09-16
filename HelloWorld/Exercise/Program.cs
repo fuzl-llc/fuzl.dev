@@ -25,7 +25,7 @@ World!" to the console, so we need the following code inside the Main method.
 
 System.Console.WriteLine("Hello World!");
 
-That's it. Once you're done with the code, you can press the F5 key to run it. Good luck!
+That's it. Once you're done with the code, press Ctrl+S to save and then F5 to run it. Good luck!
 
 */
 
